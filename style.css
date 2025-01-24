@@ -23,6 +23,12 @@ li{
     margin-right: 5%;
 }
 
+li:hover{
+    transform: scale(1.05);
+    box-shadow: 1px 1px 10px orangered;
+    font-size: 110%;
+}
+
 #footer{
     text-align: center;
 }
